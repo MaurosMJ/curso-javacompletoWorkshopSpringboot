@@ -16,6 +16,15 @@ This repository is dedicated to a Spring Boot Java project with the following ob
 - **CRUD Operations:** Implement Create, Retrieve, Update, and Delete functionalities.
 - **Exception Handling:** Implement robust exception handling mechanisms.
 
+## Index
+
+- [Technologies](#technologies)
+- [API Documentation](#api-documentation)
+- [Architecture](#architecture)
+- [Worknotes & Commits](#worknotes--commits)
+- [Credits](#credits)
+- [Swagger](#swagger)
+
 ## Technologies
 
 <div style="text-align:center;">
@@ -32,19 +41,9 @@ This repository is dedicated to a Spring Boot Java project with the following ob
 **Course Link:** [Udemy Java Complete Course](https://www.udemy.com/course/java-curso-completo)  
 **Section 23:** Project: Web Services with Spring Boot and JPA / Hibernate
 
-## Index
-
-- [API Documentation](#api-documentation)
-- [Architecture](#architecture)
-- [Worknotes & Commits](#worknotes--commits)
-- [Credits](#credits)
-- [Swagger](#swagger).
-
-## Swagger Full Documentation
-
 ## API Documentation
 
-The full API documentation can be found [here](https://maurosmj.github.io/curso-javacompletoWorkshopSpringboot/)
+The full API documentation (SWAGGER) can be found [HERE](https://maurosmj.github.io/curso-javacompletoWorkshopSpringboot/)
 
 ## Architecture
 
