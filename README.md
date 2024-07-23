@@ -34,9 +34,17 @@ This repository is dedicated to a Spring Boot Java project with the following ob
 
 ## Index
 
+- [API Documentation](#api-documentation)
 - [Architecture](#architecture)
 - [Worknotes & Commits](#worknotes--commits)
 - [Credits](#credits)
+- [Swagger](#swagger).
+
+## Swagger Full Documentation
+
+## API Documentation
+
+The full API documentation can be found [here](https://maurosmj.github.io/curso-javacompletoWorkshopSpringboot/)
 
 ## Architecture
 
@@ -135,6 +143,8 @@ Commit hash: [725110109e97ce235893286ee0f3e44a7c880973](https://github.com/Mauro
 ## Credits
 
 This repository is maintained by [MaurosMJ](https://github.com/MaurosMJ). The projects are based on the 'Java COMPLETO Programação Orientada a Objetos + Projetos' course.
+
+## Swagger:
 
 ```yaml
 openapi: 3.0.0
